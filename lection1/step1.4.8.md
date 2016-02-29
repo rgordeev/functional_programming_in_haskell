@@ -2,4 +2,6 @@
 
 Answer:
 
+```haskell
 toLower
+```
